@@ -10,6 +10,7 @@ class MainClass {
   public string teststr = "Wow";
   public int number = 5;
   public int[] ary = new int[] { 1, 2, 3, 4, 5 };
+  public lego oof = new lego();
 
   public static void Main (string[] args) {
     Console.WriteLine("Serialized output: ");
