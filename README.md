@@ -1,7 +1,8 @@
 JsonSharp
 
 This is a wrapper around a previous json parser I wrote a while back, except I added reflection and improved the usability.
-C# 4.0 is recommended but not required.
+
+C# 4.0^ is recommended but not required.
 
 <strong>Compiling Instructions: </strong>
 
